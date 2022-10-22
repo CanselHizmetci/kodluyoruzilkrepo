@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
+[Patika.dev](https://www.patika.dev/tr)
 ![Kodluyoruz](img/Kodluyoruz.png)
 
 ---
